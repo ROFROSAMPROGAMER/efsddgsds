@@ -1,0 +1,22 @@
+{
+  "token": "Your Token Here",
+  "prefix": "Your Prefix Here",
+  "ksoftapi": "Your kSoft API",
+  
+  
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "lava.link",
+         "port": 80,
+         "password": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "Your spotify",
+    "clientID": "Your spotify ID"
+  }
+
+}
